@@ -59,3 +59,9 @@ C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\
 C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.csproj.CopyComplete
 C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\Views\Cuentas\Index.cshtml.rz.scp.css
+C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
