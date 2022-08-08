@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "w+tJjKqeqS9REFRPCsUSXlZVrPt1A6Iu3/+1VKig9zw=",
+  "Hash": "8d+BtEMPgoM9tbkugEFw6+3TdY9mG6kWCVMXXDAAQgo=",
   "Source": "ManejoPresupuesto",
   "BasePath": "_content/ManejoPresupuesto",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Game\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\js\\FormularioTransacciones.js",
+      "SourceId": "ManejoPresupuesto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Game\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
+      "BasePath": "_content/ManejoPresupuesto",
+      "RelativePath": "js/FormularioTransacciones.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\FormularioTransacciones.js"
     },
     {
       "Identity": "C:\\Users\\Game\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\js\\site.js",

@@ -40,7 +40,7 @@ namespace ManejoPresupuesto.Servicios
         {
             using var connection = new SqlConnection(connectionString);
             return await connection.QueryAsync<Categoria>(
-                "SELECT * FROM Categorias WHERE UsuarioId = @usuarioId", new { usuarioId });
+                "SELECT * FROM Categorias WHERE UsuarioId = @usuarioId", new {usuarioId});
         }
 
 
