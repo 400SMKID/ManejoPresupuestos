@@ -65,3 +65,7 @@ C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\
 C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\Game\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.IO.Packaging.dll

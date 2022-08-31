@@ -48,13 +48,17 @@
               "target": "Package",
               "version": "[11.0.0, )"
             },
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.96.0, )"
+            },
             "Dapper": {
               "target": "Package",
               "version": "[2.0.123, )"
             },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
-              "version": "[4.1.0, )"
+              "version": "[4.0.0, )"
             }
           },
           "imports": [

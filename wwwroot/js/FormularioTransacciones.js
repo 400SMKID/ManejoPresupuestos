@@ -1,4 +1,4 @@
-﻿function inicializarFormularioTranscciones(urlObtenerCategorias) {
+﻿function inicializarFormularioTransacciones(urlObtenerCategorias) {
     $("#TipoOperacionId").change(async function () {
         const valorSeleccionado = $(this).val();
 
